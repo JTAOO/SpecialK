@@ -22,6 +22,7 @@ Special K&nbsp;&nbsp;<sub>*"Lovingly referred to as the Swiss Army Knife of PC g
 
 ### High-Level Overview of Special K Code Injection
 
+
 Special K's DLLs are capable of injecting their code in one of two ways:
 
 **Local Injection**&nbsp;&nbsp;&nbsp;<sub>Proxy / Wrapper DLL</sub>
