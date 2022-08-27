@@ -14,6 +14,9 @@ Special K&nbsp;&nbsp;<sub>*"Lovingly referred to as the Swiss Army Knife of PC g
 >
 > Special K will not run on anything older than Windows 8.1, do not even bother trying. Happily, it does run in WINE and is compatible with DXVK.
 > >Windows 7 has to sit this one out and think about all the terrible things it has done; seriously, **#NoMoreWindows7**<br>
+
+
+xxxx
 >
 ><br>**Miscellaneous**
 >
